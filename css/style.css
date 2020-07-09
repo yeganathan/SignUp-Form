@@ -1,0 +1,139 @@
+body{
+	font-family:Arial, Helvetica, sans-seriff;
+	font-size:16px;
+    line-height:1.2em;
+    background-color: rgb(62, 195, 248);
+    margin-top: 70px;
+    margin-left: 555px;
+    overflow: hidden;
+}
+
+.main-box{
+    background-color: snow;
+    height: 498px;
+    width: 450px;
+    border-top: 5px rgb(29, 29, 218) solid;
+    border-bottom: 5px rgb(29, 29, 218) solid;
+    padding-top: 20px;
+    padding-left: 20px;
+    padding-right: 15px;
+    padding-bottom: 90px;
+    border-radius: 15px;
+}
+
+header{
+    font-size: 30px;
+    font-weight:bolder;
+    padding-bottom: 10px;
+}
+
+#secondary-text{
+    color: rgba(102, 91, 91, 0.897);
+    font-size: 16px;
+}
+
+.my-form{
+    padding-top: 12px;
+}
+
+#first-name{
+    height: 30px;
+    width: 220px;
+    margin-right: 15px;
+    border-style: groove;
+    border-radius: 8px;
+}
+
+#last-name{
+    height: 30px;
+    width: 180px;
+    border-style: groove;
+    border-radius: 8px;
+}
+
+#email{
+    height: 30px;
+    width: 430px;
+    border-style: groove;
+    border-radius: 8px;
+}
+
+#Age{
+    height: 30px;
+    width: 430px;
+    border-style: groove;
+    border-radius: 8px;
+}
+
+#Phone-number{
+    height: 30px;
+    width: 430px;
+    border-style: groove;
+    border-radius: 8px;
+}
+
+#Postal-code{
+    height: 30px;
+    width: 430px;
+    border-style: groove;
+    border-radius: 8px;
+}
+
+#password{
+    height: 30px;
+    width: 430px;
+    border-style: groove;
+    border-radius: 8px;
+}
+
+#confirm-password{
+    height: 30px;
+    width: 430px;
+    border-style: groove;
+    border-radius: 8px;
+}
+
+#check-box{
+    color: rgba(32, 30, 30, 0.897);
+    font-size: 16px;
+}
+
+#check-box2{
+    position: relative;
+    bottom: 10px;
+}
+
+#check-box2 a{
+    text-decoration: none;
+    color: dodgerblue;
+}
+.button-area{
+    margin-top: 5px;
+    margin-left: 140px;
+}
+
+#button:hover{
+    background-color: rgb(26, 26, 143)
+}
+
+#button{
+    color: white;
+    background-color: dodgerblue;
+    padding: 50px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-radius: 8px;
+    text-decoration: none;
+    font-weight: bolder;
+    text-decoration: none;
+}
+
+.login-here{
+    margin-top: 40px;
+    margin-left: 90px;
+    color: rgb(255, 255, 255);
+}
+
+.login-here a{
+    color: aliceblue;
+}
